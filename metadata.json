@@ -1,0 +1,6 @@
+{
+  "name": "GTA Karnataka: Namma Bengaluru",
+  "description": "An open-world 3D Karnataka action adventure featuring iconic Bengaluru landmarks, traffic challenges, local syndicates, and vibrant cultural festivals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
